@@ -59,6 +59,11 @@ smartdict-gtk
 ```
 
 
+## Configuring / adding new languages
+
+Take a look at `$HOME/.smartdict/configuration.yml`.
+
+
 
 ## Copyright
 
