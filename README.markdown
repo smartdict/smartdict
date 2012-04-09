@@ -34,7 +34,11 @@ Please report if you have issues or it's not complete list of required dependenc
 
 ### Ruby version
 
-Tested on MRI 1.9.3-p125
+Tested on:
+
+* MRI 1.8.7-p358
+* MRI 1.9.2-p290
+* MRI 1.9.3-p125
 
 
 ### Install the gem
