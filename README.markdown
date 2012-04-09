@@ -13,20 +13,16 @@ It's a simple dictionary written in Ruby and GTK.
 ### Prerequisites
 
 
-#### Debian/Ubuntu
-
-On Debian/Ubuntu you need to install the next packages:
-
-* libglib2.0-dev
-* libatk1.0-dev
-* libcairo-dev
-* libsqlite3-dev
-* libpango1.0-dev
-
-To do that run:
+#### Debian Squeeze (6.0)
 
 ```
-apt-get install libglib2.0-dev libatk1.0-dev libcairo-dev libsqlite3-dev libpango1.0-dev
+apt-get install libglib2.0-dev libatk1.0-dev libcairo-dev libsqlite3-dev libpango1.0-dev libgtk2.0-dev
+```
+
+#### Ubuntu 11.10
+
+```
+apt-get install libglib2.0-dev libatk1.0-dev libcairo-dev libsqlite3-dev libpango1.0-dev libgtk2.0-dev libgdk-pixbuf2.0
 ```
 
 Please report if you have issues or it's not complete list of required dependencies.
