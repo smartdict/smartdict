@@ -59,7 +59,7 @@ GEM
       dm-migrations
       dm-sqlite-adapter
       dm-validations
-    smartdict-gtk (0.0.2)
+    smartdict-gtk (0.0.3)
       builder
       dm-enum
       gtk2 (= 1.1.2)
@@ -75,4 +75,4 @@ DEPENDENCIES
   bundler
   jeweler (~> 1.6.4)
   smartdict-core (= 0.0.2)
-  smartdict-gtk (= 0.0.2)
+  smartdict-gtk (= 0.0.3)
