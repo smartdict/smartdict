@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
-gem 'smartdict-core', '0.0.2'
-gem 'smartdict-gtk',  '0.0.2'
+gem 'smartdict-core', '~> 0.1.0'
+gem 'smartdict-gtk',  '~> 0.1.0'
 
 group :development do
   gem "bundler"
